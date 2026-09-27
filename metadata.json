@@ -1,0 +1,6 @@
+{
+  "name": "SynapseMD - Multimodal Healthcare Diagnostics & Triage Agent",
+  "description": "End-to-end multimodal clinical diagnostic fusion architecture combining clinical NLP, vision transformers, and tabular EHR models with Monte Carlo uncertainty estimation and Grad-CAM explainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
